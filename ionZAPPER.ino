@@ -9,6 +9,10 @@
     2. Install Digistump AVR Boards by Digistump: Tools -> Board -> Boards Manager...
     3. Install driver (DPInst64): https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip
     4. Tools -> Board -> Digispark(Default - 16.5mhz)
+    5. Do not connect arduino module to USB port and click Upload
+    6. Connect USB port to arduino attiny module
+    7. Wait for "100% complete" and "Micronucleus done. Thank you!" message.
+    8. Well done ;)
  */
 
 #define PWM_PIN 1 
