@@ -3,7 +3,7 @@ Arduino ATTINY85 ionophorese &amp; zapper device.
 
 The scheme and description: https://biotronika.pl/ionZAPPER
 
- ## See how to install:  http://digistump.com/wiki/digispark/tutorials/connecting
+See how to install:  http://digistump.com/wiki/digispark/tutorials/connecting
     1. Arduino: File - Preferences -> Additional Board Manager URLs: http://digistump.com/package_digistump_index.json
     2. Install Digistump AVR Boards by Digistump: Tools -> Board -> Boards Manager...
     3. Install driver (DPInst64): https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip
